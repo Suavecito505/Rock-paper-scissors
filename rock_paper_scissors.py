@@ -1,8 +1,3 @@
-
-
-
-
-
 #Rock Paper Scissors Game
 #By Suavecito
 
